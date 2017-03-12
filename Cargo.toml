@@ -1,0 +1,6 @@
+[package]
+name = "rust-device"
+version = "0.1.0"
+authors = ["Tomi Maila <tomi.maila@iki.fi>"]
+
+[dependencies]
